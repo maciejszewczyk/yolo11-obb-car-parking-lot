@@ -5,3 +5,4 @@ python car-parking-lot.py --model=best.pt --video=car-parking-lot.mp4 --conf=0.2
 
 ![alt tag](https://raw.githubusercontent.com/maciejszewczyk/yolo11-obb-car-parking-lot/master/car-parking-lot.png)
 
+![alt tag](https://raw.githubusercontent.com/maciejszewczyk/yolo11-obb-car-parking-lot/master/evaluation.png)
